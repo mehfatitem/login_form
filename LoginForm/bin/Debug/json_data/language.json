@@ -1,0 +1,24 @@
+{
+    "en" :  {
+        "title" :  "Login Form",
+        "titletext" :  "LOGIN FORM APPLICATION",
+        "usernametext" :  "Username",
+        "passwordtext" :  "Password",
+        "languagetext" :  "Language",
+        "savepassword" :  "Remember my password",
+        "loginbeforedata" :  "Use my previous link information",
+        "loginbutton" :  "Login",
+        "changepassword" :  "Change My Password"
+    },
+    "tr" :  {
+        "title" :  "Oturum Aç Formu",
+        "titletext" :  "OTURUM AÇMA UYGULAMASI",
+        "usernametext" :  "Kullanýcý Adý",
+        "passwordtext" :  "Þifre",
+        "languagetext" :  "Dil",
+        "savepassword" :  "Þifremi hatýrla",
+        "loginbeforedata" :  "Bir önceki baðlantý bilgilerimi kullan",
+        "loginbutton" :  "Oturum Aç",
+        "changepassword" :  "Þifremi Deðiþtir"
+    }
+}

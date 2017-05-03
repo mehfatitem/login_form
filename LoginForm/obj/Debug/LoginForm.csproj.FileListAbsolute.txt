@@ -1,0 +1,12 @@
+c:\users\mehfa\onedrive\belgeler\visual studio 2013\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+c:\users\mehfa\onedrive\belgeler\visual studio 2013\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+c:\users\mehfa\onedrive\belgeler\visual studio 2013\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.LoginForm.resources
+c:\users\mehfa\onedrive\belgeler\visual studio 2013\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+c:\users\mehfa\onedrive\belgeler\visual studio 2013\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+c:\users\mehfa\onedrive\belgeler\visual studio 2013\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+c:\users\mehfa\onedrive\belgeler\visual studio 2013\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+c:\users\mehfa\onedrive\belgeler\visual studio 2013\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+c:\users\mehfa\onedrive\belgeler\visual studio 2013\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\mehfa\onedrive\belgeler\visual studio 2013\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.AdminPanel.resources
+C:\Users\mehfa\onedrive\belgeler\visual studio 2013\Projects\LoginForm\LoginForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mehfa\onedrive\belgeler\visual studio 2013\Projects\LoginForm\LoginForm\bin\Debug\Newtonsoft.Json.xml
